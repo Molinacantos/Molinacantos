@@ -26,7 +26,7 @@ Black HEX color code: #000000
 // HIGH PRIORITY CHANGES
 // 2. Change project name and colours:
 const companyName = 'MOLINA CANTOS'
-const companyNameColor = '#FFD700'
+const companyNameColor = '#000000'
 
 const formButtonBackgroundColor = '#FFD700'
 const formButtonTextColor = '#FFFFFF' // Make this either black (#000000) or white (#FFFFFF) depending on what is easiest to read on your button color of choice
@@ -54,8 +54,8 @@ const contactEmail = 'example@notflix.com'
 
 // LOW PRIORITY CHANGES
 // Branding: Update with different background and text colors if needed
-const pageBackgroundColor = '#000000'
-const pageTextColor = '#FFFFFF'
+const pageBackgroundColor = '#C69924'
+const pageTextColor = '#000000'
 const formTextColor = '#000000'
 
 // Social media: Update the call to action with your own
