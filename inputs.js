@@ -32,7 +32,7 @@ const formButtonBackgroundColor = '#FFD700'
 const formButtonTextColor = '#FFFFFF' // Make this either black (#000000) or white (#FFFFFF) depending on what is easiest to read on your button color of choice
 
 // 3. Update social media links:
-const facebookLink = 'https://facebook.com'
+const facebookLink = 'https://www.facebook.com/profile.php?id=61564113943659'
 const instagramLink = 'https://www.instagram.com/molina.cantos/'
 const xLink = 'https://x.com/lucaducca'
 const linkedinLink = 'https://linkedin.com'
