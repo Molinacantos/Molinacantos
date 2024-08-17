@@ -48,7 +48,7 @@ const headerTextSize = '66' // Default size is 66
 const descriptionTextSize = '42' // Default size is 42
 
 // 5. Update contact email:
-const contactEmail = 'example@notflix.com'
+const contactEmail = 'molinacantosfashion@gmail.com'
 
 
 
