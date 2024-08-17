@@ -54,8 +54,8 @@ const contactEmail = 'example@notflix.com'
 
 // LOW PRIORITY CHANGES
 // Branding: Update with different background and text colors if needed
-const pageBackgroundColor = '#FFFFFF'
-const pageTextColor = '#000000'
+const pageBackgroundColor = '#000000'
+const pageTextColor = '#FFFFFF'
 const formTextColor = '#000000'
 
 // Social media: Update the call to action with your own
