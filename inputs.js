@@ -26,7 +26,7 @@ Black HEX color code: #000000
 // HIGH PRIORITY CHANGES
 // 2. Change project name and colours:
 const companyName = 'MOLINA CANTOS'
-const companyNameColor = '#FFFFFF'
+const companyNameColor = '#000000'
 
 const formButtonBackgroundColor = '#FFD700'
 const formButtonTextColor = '#FFFFFF' // Make this either black (#000000) or white (#FFFFFF) depending on what is easiest to read on your button color of choice
