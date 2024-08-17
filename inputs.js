@@ -37,7 +37,7 @@ const instagramLink = 'https://www.instagram.com/molina.cantos/'
 const xLink = 'https://x.com/MolinaCantos1'
 const linkedinLink = 'https://linkedin.com'
 const youtubeLink = 'https://www.youtube.com'
-const tiktokLink = 'https://www.tiktok.com'
+const tiktokLink = 'https://www.tiktok.com/@molina.cantos?_t=8oxCjVD3QEz&_r=1'
 const discordLink = 'https://discord.com'
 
 // 4. Update header and description texts:
