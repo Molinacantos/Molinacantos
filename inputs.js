@@ -41,8 +41,8 @@ const tiktokLink = 'https://www.tiktok.com'
 const discordLink = 'https://discord.com'
 
 // 4. Update header and description texts:
-const headerText = 'Unlimited films, TV programmes and more' // One-line description of what you will offer customers
-const descriptionText = 'Watch anywhere. Cancel at any time.' // More detailed description of what you will offer customers
+const headerText = 'Aspiring to be one of the worlds most recognised retailers in fashion and design helping our clients feel good with our unique selection of styles, giving you a new look  ' // One-line description of what you will offer customers
+const descriptionText = 'Watch anywhere. Cancel atk.' // More detailed description of what you will offer customers
 
 const headerTextSize = '66' // Default size is 66
 const descriptionTextSize = '42' // Default size is 42
