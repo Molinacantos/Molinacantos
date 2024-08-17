@@ -42,7 +42,7 @@ const discordLink = 'https://discord.com'
 
 // 4. Update header and description texts:
 const headerText = 'Dresses, Skirts, Blouses, Shirts and so much more  ' // One-line description of what you will offer customers
-const descriptionText = 'Watch anywhere. Cancel atk.' // More detailed description of what you will offer customers
+const descriptionText = 'Fashion at its finest. look good feel good.' // More detailed description of what you will offer customers
 
 const headerTextSize = '66' // Default size is 66
 const descriptionTextSize = '42' // Default size is 42
