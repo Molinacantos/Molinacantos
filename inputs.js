@@ -35,7 +35,7 @@ const formButtonTextColor = '#FFFFFF' // Make this either black (#000000) or whi
 const facebookLink = 'https://www.facebook.com/profile.php?id=61564113943659'
 const instagramLink = 'https://www.instagram.com/molina.cantos/'
 const xLink = 'https://x.com/MolinaCantos1'
-const linkedinLink = 'https://linkedin.com'
+const linkedinLink = 'https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAAFHS55YBjUUVboSnSlcFohVCvzSeaq0Cjr4&keywords=molina%20cantos&origin=RICH_QUERY_SUGGESTION&position=1&searchId=9c888df3-b4d1-4aa4-accc-6798c0b1c5d3&sid=lep&spellCorrectionEnabled=false'
 const youtubeLink = 'https://www.youtube.com'
 const tiktokLink = 'https://www.tiktok.com/@molina.cantos?_t=8oxCjVD3QEz&_r=1'
 const discordLink = 'https://discord.com'
