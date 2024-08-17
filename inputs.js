@@ -33,7 +33,7 @@ const formButtonTextColor = '#FFFFFF' // Make this either black (#000000) or whi
 
 // 3. Update social media links:
 const facebookLink = 'https://facebook.com'
-const instagramLink = 'https://instagram.com'
+const instagramLink = 'https://www.instagram.com/molina.cantos/'
 const xLink = 'https://x.com/lucaducca'
 const linkedinLink = 'https://linkedin.com'
 const youtubeLink = 'https://www.youtube.com'
