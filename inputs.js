@@ -38,7 +38,7 @@ const xLink = 'https://x.com/MolinaCantos1'
 const linkedinLink = 'https://www.linkedin.com/in/molina-cantos-9068a6323/'
 const youtubeLink = 'https://www.youtube.com/@MolinaCantos-k8w'
 const tiktokLink = 'https://www.tiktok.com/@molina.cantos?_t=8oxCjVD3QEz&_r=1'
-const discordLink = 'https://discord.com'
+const discordLink = ''
 
 // 4. Update header and description texts:
 const headerText = 'Dresses, Skirts, Blouses, Shirts and so much more  ' // One-line description of what you will offer customers
